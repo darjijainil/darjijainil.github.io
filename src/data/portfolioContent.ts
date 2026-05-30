@@ -6,7 +6,7 @@ export const defaultPortfolioData: PortfolioCMS = {
     title: "Creative Graphic Designer",
     subtitle: "Visual Storyteller & Digital Solutions Creator",
     bio: "As a highly driven visual designer and modern content creator, I blend traditional layout guidelines with cutting-edge digital software to design high-converting, striking outputs. Specializing in branding development, social media campaigns, print collateral, packing design, and generative visual workflows.",
-    whatsappNumber: "9106609486",
+    whatsappNumber: "91 91066 09486",
     email: "jainildarji2709@gmail.com",
     linkedinUrl: "https://linkedin.com/in/jainil-darji",
     behanceUrl: "https://behance.net/jainildarji",
