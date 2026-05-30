@@ -20,14 +20,14 @@ export const defaultPortfolioData: PortfolioCMS = {
       aboutSummary: "Detail-oriented Graphic Designer with practical expertise in translating brand objectives into visual masterpiece assets. Highly skilled in CorelDRAW, Adobe Illustrator, and Photoshop, running optimized project streams with pristine technical precision.",
       education: [
         {
-          degree: "Diploma in Graphic Design & Visual Communication",
-          institution: "Arena Animation & Creative Arts Institute",
-          year: "2024 - 2025"
+          degree: "Electrical Engineering",
+          institution: "Gujarat Technological University",
+          year: "2025 - Present"
         },
         {
-          degree: "Bachelor of Arts in Media Graphics",
-          institution: "State University",
-          year: "2021 - 2024"
+          degree: "Graphics Designing Course",
+          institution: "Arena Animation & Creative Arts Institute",
+          year: "2025 (2 Months Experience)"
         }
       ],
       certifications: [
