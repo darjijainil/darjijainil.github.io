@@ -56,33 +56,33 @@ export const defaultPortfolioData: PortfolioCMS = {
       deliveryTime: "24-48 Hours",
       deliverables: ["High-Res Source Templates", "JPG/PNG outputs suitable for all social platforms", "Editable master Canva/PSD template"]
     },
-    {
-      id: "srv2",
-      title: "Product Packaging Design",
-      icon: "Box",
-      description: "Stunning full-bleed product packaging, creative label typography, 3D mockups, and retail-ready folding dielines structured strictly per client product scale.",
-      startingPrice: "₹2,999 / $99",
-      deliveryTime: "3-5 Days",
-      deliverables: ["Print-Ready PDF with bleed", "CorelDRAW/Illustrator source dielines", "True-to-life 3D digital product renders"]
-    },
-    {
-      id: "srv3",
-      title: "Corporate Identity & Logos",
-      icon: "Sparkles",
-      description: "Iconic, memorable custom logos with complete brand guideline rulebooks, custom typography settings, and primary color palette selection.",
-      startingPrice: "₹1,999 / $65",
-      deliveryTime: "3 Days",
-      deliverables: ["Vector Formats (AI, EPS, SVG, PDF)", "Corporate Brand Guidelines manual", "Light/Dark/Monochrome alternatives"]
-    },
-    {
-      id: "srv4",
-      title: "Print Media & Advertising Collaterals",
-      icon: "Layers",
-      description: "Premium tri-fold brochures, sales flyers, custom catalog listings, visiting cards, and exhibition marketing banners configured perfectly with professional print grids.",
-      startingPrice: "₹999 / $35",
-      deliveryTime: "48 Hours",
-      deliverables: ["Pre-flight ready CMYK files", "Die-cut guides if applicable", "Original fully organized PSD/CDR files"]
-    }
+    // {
+    //   id: "srv2",
+    //   title: "Product Packaging Design",
+    //   icon: "Box",
+    //   description: "Stunning full-bleed product packaging, creative label typography, 3D mockups, and retail-ready folding dielines structured strictly per client product scale.",
+    //   startingPrice: "₹2,999 / $99",
+    //   deliveryTime: "3-5 Days",
+    //   deliverables: ["Print-Ready PDF with bleed", "CorelDRAW/Illustrator source dielines", "True-to-life 3D digital product renders"]
+    // },
+    // {
+    //   id: "srv3",
+    //   title: "Corporate Identity & Logos",
+    //   icon: "Sparkles",
+    //   description: "Iconic, memorable custom logos with complete brand guideline rulebooks, custom typography settings, and primary color palette selection.",
+    //   startingPrice: "₹1,999 / $65",
+    //   deliveryTime: "3 Days",
+    //   deliverables: ["Vector Formats (AI, EPS, SVG, PDF)", "Corporate Brand Guidelines manual", "Light/Dark/Monochrome alternatives"]
+    // },
+    // {
+    //   id: "srv4",
+    //   title: "Print Media & Advertising Collaterals",
+    //   icon: "Layers",
+    //   description: "Premium tri-fold brochures, sales flyers, custom catalog listings, visiting cards, and exhibition marketing banners configured perfectly with professional print grids.",
+    //   startingPrice: "₹999 / $35",
+    //   deliveryTime: "48 Hours",
+    //   deliverables: ["Pre-flight ready CMYK files", "Die-cut guides if applicable", "Original fully organized PSD/CDR files"]
+    // }
   ],
   projects: [
     {
