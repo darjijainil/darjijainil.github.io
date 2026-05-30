@@ -15,7 +15,7 @@ export const defaultPortfolioData: PortfolioCMS = {
     yearsOfExperience: "Practical freelance and rich agency labs background",
     completedProjectsCount: 5,
     happyClientsCount: 18,
-    location: "India (Available globally for Remote Freelancer Roles)",
+    location: "Gandhinagar & Ahmedabad, Gujarat, India (Available globally for remote freelance)",
     resumeDetails: {
       aboutSummary: "Detail-oriented Graphic Designer with practical expertise in translating brand objectives into visual masterpiece assets. Highly skilled in CorelDRAW, Adobe Illustrator, and Photoshop, running optimized project streams with pristine technical precision.",
       education: [

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Mail, Phone, MapPin, Send, MessageCircle, AlertCircle, CheckCircle, Smartphone } from "lucide-react";
+import { Mail, MapPin, Send, MessageCircle, AlertCircle, CheckCircle, Smartphone } from "lucide-react";
 import { motion, AnimatePresence } from "motion/react";
 
 interface ContactProps {
@@ -131,18 +131,6 @@ export default function Contact({ designerName, whatsappNumber, email, location 
                   <a href={`mailto:${email}`} className="font-sans font-bold text-sm text-slate-800 dark:text-slate-200 hover:text-indigo-600 transition-colors">
                     {email}
                   </a>
-                </div>
-              </div>
-
-              <div className="flex gap-4 p-5 bg-slate-50 dark:bg-slate-900/40 border border-slate-200/50 dark:border-slate-850 rounded-2xl items-start">
-                <div className="p-3 bg-amber-500/10 text-amber-500 rounded-xl">
-                  <Phone className="h-5 w-5" />
-                </div>
-                <div>
-                  <p className="font-mono text-[9px] uppercase tracking-wider text-slate-400 font-bold">Direct Mobile</p>
-                  <p className="font-sans font-bold text-sm text-slate-800 dark:text-slate-200">
-                    +{whatsappNumber}
-                  </p>
                 </div>
               </div>
 
